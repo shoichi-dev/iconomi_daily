@@ -27,5 +27,9 @@
 ![account](https://github.com/shoichi-dev/iconomi_daily/blob/master/iconomi_20200706_amt.PNG?raw=true)
 
 <br>
+# Iconomi Dashboard<br>
+![dashboard_ratio](https://github.com/shoichi-dev/iconomi_daily/blob/master/iconomi_20200706_ratio.PNG?raw=true)
+
+<br>
 ** ในตอนแรกผมได้ทำการ re-balance แค่ xrp แต่จำนวน amount ของ BTC ETH เปลี่ยนไปด้วย เพราะสัดส่วนที่ปรับมีการขยับ 
 ** ผมใช้ USDT ในสัดส่วนที่สูงเพื่อเป็นตัวกลางในการทำ re-balance
