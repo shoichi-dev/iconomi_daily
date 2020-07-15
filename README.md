@@ -7,7 +7,7 @@
 ในส่วนนี้ขอพูดแค่การทำ Strategy การใช้งาน Platform 
 สมัคร : (https://my.iconomi.com/register?ref=nJLq8)
 
-![iconomi](https://img.youtube.com/vi/1oWMkLPq7dY/0.jpg)](https://www.youtube.com/watch?v=1oWMkLPq7dY)
+[![iconomi](https://img.youtube.com/vi/1oWMkLPq7dY/0.jpg)](https://www.youtube.com/watch?v=1oWMkLPq7dY)]
 
 # การฝากเงิน<br>
 ![deposit](https://github.com/shoichi-dev/iconomi_daily/blob/master/iconomi_deposit_amt.PNG?raw=true)<br>
@@ -27,7 +27,7 @@
 ![account](https://github.com/shoichi-dev/iconomi_daily/blob/master/iconomi_20200706_amt.PNG?raw=true)
 
 <br>
-# Iconomi Dashboard<br>
+
 ![dashboard_ratio](https://github.com/shoichi-dev/iconomi_daily/blob/master/iconomi_20200706_ratio.PNG?raw=true)
 
 <br>
