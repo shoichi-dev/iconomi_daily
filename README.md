@@ -22,8 +22,6 @@
 ให้หน้า dashboard ของ Strategy จะเห็นทุกอย่างเป็น % เราต้อง follow Strategy ของตัวเอง เพื่อที่จะคำนวนสัดส่วนให้ถูกต้อง ซึ้งการกำหนดสัดส่วนนั้น บังคับว่าต้องมี BTC หรือ ETH ด้วย
 
 <br>
-# dashboard<br>
-![dashboard](https://github.com/shoichi-dev/iconomi_daily/blob/master/iconomi_20200706_ratio.PNG?raw=true)
 
 # account<br>
 ![account](https://github.com/shoichi-dev/iconomi_daily/blob/master/iconomi_20200706_amt.PNG?raw=true)
