@@ -27,7 +27,9 @@
 ![account](https://github.com/shoichi-dev/iconomi_daily/blob/master/iconomi_20200706_amt.PNG?raw=true)
 
 <br>
+<br>
 
+# Structure<br>
 ![dashboard_ratio](https://github.com/shoichi-dev/iconomi_daily/blob/master/iconomi_20200706_ratio.PNG?raw=true)
 
 <br>
